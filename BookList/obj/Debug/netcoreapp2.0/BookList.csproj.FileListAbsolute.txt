@@ -1,0 +1,11 @@
+F:\COREPRACTISE\BookList\BookList\bin\Debug\netcoreapp2.0\BookList.deps.json
+F:\COREPRACTISE\BookList\BookList\bin\Debug\netcoreapp2.0\BookList.runtimeconfig.json
+F:\COREPRACTISE\BookList\BookList\bin\Debug\netcoreapp2.0\BookList.runtimeconfig.dev.json
+F:\COREPRACTISE\BookList\BookList\bin\Debug\netcoreapp2.0\BookList.dll
+F:\COREPRACTISE\BookList\BookList\bin\Debug\netcoreapp2.0\BookList.pdb
+F:\COREPRACTISE\BookList\BookList\obj\Debug\netcoreapp2.0\BookList.csprojResolveAssemblyReference.cache
+F:\COREPRACTISE\BookList\BookList\obj\Debug\netcoreapp2.0\BookList.csproj.CoreCompileInputs.cache
+F:\COREPRACTISE\BookList\BookList\obj\Debug\netcoreapp2.0\BookList.AssemblyInfoInputs.cache
+F:\COREPRACTISE\BookList\BookList\obj\Debug\netcoreapp2.0\BookList.AssemblyInfo.cs
+F:\COREPRACTISE\BookList\BookList\obj\Debug\netcoreapp2.0\BookList.dll
+F:\COREPRACTISE\BookList\BookList\obj\Debug\netcoreapp2.0\BookList.pdb
